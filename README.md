@@ -1,4 +1,4 @@
-A breaking bad fandom page using rjs project that uses the breaking bad api to show and filter characters from the show
+A breaking bad fandom page using rjs project that uses the [Breaking Bad Api](https://breakingbadapi.com/documentation) to show and filter characters from the show 
 
 ## Available Scripts
 
